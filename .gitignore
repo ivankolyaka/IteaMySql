@@ -1,0 +1,7 @@
+.idea/
+*.log
+build/
+node_modules/
+target/
+test/
+
